@@ -1,0 +1,19 @@
+{
+  "name": "mongo-require",
+  "version": "1.0.0",
+  "description": "require for MongoDB",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/es-require.git"
+  },
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/es-require/issues"
+  },
+  "homepage": "https://github.com/coderaiser/es-require"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mongo-require",
+  "version": "1.0.0",
+  "homepage": "https://github.com/coderaiser/mongo-require",
+  "authors": [
+    "coderaiser <mnemonic.enemy@gmail.com>"
+  ],
+  "description": "require for mongoDB",
+  "main": "lib/require.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "require",
+    "mongodb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
